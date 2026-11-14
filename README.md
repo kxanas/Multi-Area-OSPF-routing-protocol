@@ -6,7 +6,7 @@ Cisco Packet Tracer lab: multi-area OSPF design with Area 0 backbone, Areas 1, 2
 This project implements OSPF across multiple areas. Area 0 is the backbone, and Areas 1, 2 and 3 connect to it. Each area has its own LANs with PCs and laptops, and all of them can reach each other through OSPF. A separate router with a loopback interface is also connected to the backbone.
 
 ## Topology
-![Network Topology](multi area ospf.png)
+![Network Topology](ospf.png)
 
 ## Network Design
 
